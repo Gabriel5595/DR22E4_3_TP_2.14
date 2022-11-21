@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#tabela{
+  text-align: center;
+  width: 250px;
+}
+.red{
+  background: red;
+}
+.green{
+  background: green;
+}
